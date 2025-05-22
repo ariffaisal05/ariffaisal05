@@ -4,19 +4,19 @@ I'm a data enthusiast passionate about turning data into insights.
 
 ### 📊 Featured Projects
 
-- **[Fraud Detection](https://github.com/yourusername/fraud-detection)**  
+- **[Fraud Detection](https://github.com/ariffaisal05/fraud-detection)**  
   Detecting credit card fraud using Random Forest and data preprocessing.
 
-- **[Food Review Analysis](https://github.com/yourusername/food-review)**  
+- **[Food Review Analysis](https://github.com/ariffaisal05/food-review)**  
   Exploratory analysis and text processing of food reviews.
 
-- **[Customer Segmentation](https://github.com/yourusername/customer-segmentation)**  
+- **[Customer Segmentation](https://github.com/ariffaisal05/customer-segmentation)**  
   Segmenting customers using RFM scoring to support marketing decisions.
 
-- **[Discount Loss Forecasting](https://github.com/yourusername/discount-loss)**  
+- **[Discount Loss Forecasting](https://github.com/ariffaisal05/discount-loss)**  
   Forecasting discount-related losses using PyCaret.
 
-- **[Dynamic Price Analysis](https://github.com/yourusername/dynamic-price)**  
+- **[Dynamic Price Analysis](https://github.com/ariffaisal05/dynamic-price)**  
   Price prediction with Random Forest and clustering strategies.
 
 <!--
