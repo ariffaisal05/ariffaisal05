@@ -7,8 +7,8 @@ I'm a data enthusiast passionate about turning data into insights.
 - **[Fraud Detection](https://github.com/ariffaisal05/fraud-detection)**  
   Detecting credit card fraud using Random Forest and data preprocessing.
 
-- **[Food Review Analysis](https://github.com/ariffaisal05/food-review)**  
-  Exploratory analysis and text processing of food reviews.
+- **[COVID-19 Tweet Clustering](https://github.com/ariffaisal05/tweet-clustering)**  
+  Grouped pandemic-related tweets using K-Means and TF-IDF to find key topics.
 
 - **[Customer Segmentation](https://github.com/ariffaisal05/customer-segmentation)**  
   Segmenting customers using RFM scoring to support marketing decisions.
